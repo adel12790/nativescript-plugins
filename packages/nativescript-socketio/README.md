@@ -1,7 +1,7 @@
 # Nativescript nativescript-socketio
 
 ```javascript
-ns plugin add @triniwiz/nativescript-socketio
+ns plugin add @adel12790/nativescript-socketio
 ```
 
 ## API documentation
