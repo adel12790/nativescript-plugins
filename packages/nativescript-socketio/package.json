@@ -1,6 +1,6 @@
 {
-	"name": "@triniwiz/nativescript-socketio",
-	"version": "5.0.1",
+	"name": "@adel12790/nativescript-socketio",
+	"version": "5.0.2",
 	"description": "Socket.IO for nativescript",
 	"main": "index",
 	"typings": "index.d.ts",
@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/triniwiz/nativescript-plugins.git"
+		"url": "https://github.com/triniwiz/nativescript-socketio.git"
 	},
 	"keywords": [
 		"nativescript",
