@@ -1,47 +1,47 @@
 {
-	"name": "@adel12790/nativescript-socketio",
-	"version": "5.0.3",
-	"description": "Socket.IO for nativescript",
-	"main": "index",
-	"typings": "index.d.ts",
-	"nativescript": {
-		"platforms": {
-			"ios": "7.0.0",
-			"android": "7.0.0"
-		}
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/triniwiz/nativescript-socketio.git"
-	},
-	"keywords": [
-		"nativescript",
-		"ecosystem:nativescript",
-		"nativescript-android",
-		"nativescript-ios",
-		"NativeScript",
-		"JavaScript",
-		"Android",
-		"IOS",
-		"socket.io",
-		"socketio",
-		"io",
-		"socket",
-		"events",
-		"tcp",
-		"websocket",
-		"framework",
-		"realtime"
-	],
-	"author": {
-		"name": "Osei Fortune",
-		"email": "fortune.osei@yahoo.com"
-	},
-	"bugs": {
-		"url": "https://github.com/triniwiz/nativescript-plugins/issues"
-	},
-	"license": "Apache-2.0",
-	"homepage": "https://github.com/tirniwiz/nativescript-plugins",
-	"readmeFilename": "README.md",
-	"bootstrapper": "@nativescript/plugin-seed"
+  "name": "@adel12790/nativescript-socketio",
+  "version": "5.0.5",
+  "description": "Socket.IO for nativescript",
+  "main": "index",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "7.0.0",
+      "android": "7.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/triniwiz/nativescript-socketio.git"
+  },
+  "keywords": [
+    "nativescript",
+    "ecosystem:nativescript",
+    "nativescript-android",
+    "nativescript-ios",
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "IOS",
+    "socket.io",
+    "socketio",
+    "io",
+    "socket",
+    "events",
+    "tcp",
+    "websocket",
+    "framework",
+    "realtime"
+  ],
+  "author": {
+    "name": "Osei Fortune",
+    "email": "fortune.osei@yahoo.com"
+  },
+  "bugs": {
+    "url": "https://github.com/triniwiz/nativescript-plugins/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/tirniwiz/nativescript-plugins",
+  "readmeFilename": "README.md",
+  "bootstrapper": "@nativescript/plugin-seed"
 }

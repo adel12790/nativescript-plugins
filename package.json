@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "setup": "npx rimraf node_modules package-lock.json dist tmp yarn.lock && yarn config set ignore-engines true && ns package-manager set npm && yarn",
+    "setup": "rm -Rf node_modules package-lock.json dist tmp yarn.lock && yarn config set ignore-engines true && ns package-manager set npm && yarn",
     "postinstall": "husky install && npx ts-patch install && patch-package",
     "start": "nps",
     "add": "nx g @nativescript/plugin-tools:add-package",
