@@ -1,5 +1,5 @@
 import { InjectionToken, ModuleWithProviders, NgModule } from '@angular/core';
-import { SocketIO } from '@triniwiz/nativescript-socketio';
+import { SocketIO } from '@adel12790/nativescript-socketio';
 
 export interface IOOptions {
     compress?: boolean;

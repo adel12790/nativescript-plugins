@@ -4,7 +4,7 @@
 		"types": ["node"],
 		"baseUrl": ".",
 		"paths": {
-			"@triniwiz/nativescript-socketio": ["../../../dist/packages/nativescript-socketio"]
+			"@adel12790/nativescript-socketio": ["../../../dist/packages/nativescript-socketio"]
 		}
 	}
 }
